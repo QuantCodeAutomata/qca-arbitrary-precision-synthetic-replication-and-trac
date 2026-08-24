@@ -1,0 +1,3 @@
+test,description,pass,detail
+UAT-VAL-3.2,Feed staleness lockout,True,"ticks_received=3, staleness=True"
+UAT-VAL-4.2,Atomic rollback on broker failure,True,"zero_drift=True, pre_delta=0.45000000, post_delta=0.45000000"
